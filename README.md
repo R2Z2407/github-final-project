@@ -1,9 +1,9 @@
-⚙️ Kalkulator Bunga Sederhana
+# ⚙️ Kalkulator Bunga Sederhana
 Selamat datang di proyek Kalkulator Bunga Sederhana! Pernah butuh menghitung bunga dengan cepat untuk tugas kuliah, proyek pribadi, atau sekadar ingin memahami konsep dasar keuangan? Alat sederhana ini hadir untuk membantu.
 
 Ini adalah skrip ringan yang dirancang untuk menghitung bunga sederhana hanya dengan tiga input utama. Sangat cocok untuk mahasiswa, calon developer, dan siapa pun yang butuh perhitungan cepat tanpa ribet.
 
-🚀 Cara Kerja
+## 🚀 Cara Kerja
 Proyek ini mengambil tiga nilai utama: jumlah pokok, suku bunga tahunan, dan periode waktu dalam tahun untuk menghitung total bunga sederhana yang diperoleh atau dibayarkan.
 
 Parameter Input
@@ -15,7 +15,7 @@ t (Time): Durasi atau periode waktu pinjaman/investasi, yang dihitung dalam tahu
 
 r (Rate): Suku bunga tahunan. Ingat, masukkan nilai ini dalam format desimal (contoh: untuk 5%, masukkan 0.05).
 
-✨ Formula Ajaib
+## ✨ Formula Ajaib
 Di balik layar, kalkulator ini menggunakan formula bunga sederhana yang klasik:
 
 Bunga Sederhana = Pokok × Suku Bunga × Waktu
@@ -24,7 +24,7 @@ Atau dalam notasi variabel:
 
 I = p * r * t
 
-💡 Contoh Penggunaan
+## 💡 Contoh Penggunaan
 Mari kita lihat contoh praktisnya. Anda ingin menghitung bunga sederhana dari:
 
 Pokok (p) = Rp 1.000.000
