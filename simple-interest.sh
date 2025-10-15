@@ -1,28 +1,28 @@
-   #!/bin/bash
-   # Skrip ini menghitung bunga sederhana berdasarkan pokok,
-   # suku bunga tahunan dan periode waktu dalam tahun.
+#!/bin/bash
+# This script calculates simple interest based on the principal,
+# annual interest rate, and time period in years.
 
-   # Jangan gunakan ini di produksi. Hanya untuk tujuan contoh.
+# Do not use this in production. For demonstration purposes only.
 
-   # Penulis: Upkar Lidder (IBM)
-   # Penulis Tambahan:
-   # <nama pengguna GitHub Anda>
+# Author: Upkar Lidder (IBM)
+# Additional Authors:
+# <your GitHub username>
 
-   # Input:
-   # p, jumlah pokok
-   # t, periode waktu dalam tahun
-   # r, suku bunga tahunan
+# Input:
+# p, principal amount
+# t, time period in years
+# r, annual interest rate
 
-   # Output:
-   # bunga sederhana = p*t*r
+# Output:
+# simple interest = p*t*r
 
-   echo "Masukkan pokok:"
-   read p
-   echo "Masukkan suku bunga per tahun:"
-   read r
-   echo "Masukkan periode waktu dalam tahun:"
-   read t
+echo “Enter principal:”
+read p
+echo “Enter annual interest rate:”
+read r
+echo “Enter time period in years:”
+read t
 
-   s=`expr $p \* $t \* $r / 100`
-   echo "Bunga sederhana adalah: "
-   echo $s
+s=`expr $p \* $t \* $r / 100`
+echo “Simple interest is: ”
+echo $s
