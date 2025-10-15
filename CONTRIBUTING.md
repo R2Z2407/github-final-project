@@ -25,9 +25,7 @@ This is a great project for beginner contributors! If you want to fix a bug or a
   <li>Fork this repository to your GitHub account.</li>
   <li>Create a new branch from main for your changes.</li>
   <blockquote>
-    <blockquote>
       <i>git checkout -b my-cool-feature</i>
-    </blockquote>
   </blockquote>
   <li>Make the necessary changes to the code.</li>
   <li>Don't forget! Add your GitHub username to the list of Additional Authors at the top of the script file.</li>
