@@ -1,43 +1,43 @@
-# ⚙️ Kalkulator Bunga Sederhana
-Selamat datang di proyek Kalkulator Bunga Sederhana! Pernah butuh menghitung bunga dengan cepat untuk tugas kuliah, proyek pribadi, atau sekadar ingin memahami konsep dasar keuangan? Alat sederhana ini hadir untuk membantu.
+# ⚙️ Simple Interest Calculator
+Welcome to the Simple Interest Calculator project! Ever needed to quickly calculate interest for a college assignment, personal project, or just to understand basic financial concepts? This simple tool is here to help.
 
-Ini adalah skrip ringan yang dirancang untuk menghitung bunga sederhana hanya dengan tiga input utama. Sangat cocok untuk mahasiswa, calon developer, dan siapa pun yang butuh perhitungan cepat tanpa ribet.
+It is a lightweight script designed to calculate simple interest with only three main inputs. It is perfect for students, aspiring developers, and anyone who needs quick calculations without any hassle.
 
-## 🚀 Cara Kerja
-Proyek ini mengambil tiga nilai utama: jumlah pokok, suku bunga tahunan, dan periode waktu dalam tahun untuk menghitung total bunga sederhana yang diperoleh atau dibayarkan.
+## 🚀 How It Works
+This project takes three main values: principal amount, annual interest rate, and time period in years to calculate the total simple interest earned or paid.
 
-Parameter Input
-Untuk memulai perhitungan, Anda perlu menyediakan parameter berikut:
+Input Parameters
+To start the calculation, you need to provide the following parameters:
 
-p (Principal): Jumlah uang awal atau pokok pinjaman/investasi. Anggap ini sebagai titik awal Anda.
+p (Principal): The initial amount of money or the principal of the loan/investment. Think of this as your starting point.
 
-t (Time): Durasi atau periode waktu pinjaman/investasi, yang dihitung dalam tahun.
+t (Time): The duration or period of the loan/investment, calculated in years.
 
-r (Rate): Suku bunga tahunan. Ingat, masukkan nilai ini dalam format desimal (contoh: untuk 5%, masukkan 0.05).
+r (Rate): The annual interest rate. Remember, enter these values in decimal format (e.g., for 5%, enter 0.05).
 
-## ✨ Formula Ajaib
-Di balik layar, kalkulator ini menggunakan formula bunga sederhana yang klasik:
+## ✨ The Magic Formula
+Behind the scenes, this calculator uses the classic simple interest formula:
 
-Bunga Sederhana = Pokok × Suku Bunga × Waktu
+Simple Interest = Principal × Interest Rate × Time
 
-Atau dalam notasi variabel:
+Or in variable notation:
 
 I = p * r * t
 
-## 💡 Contoh Penggunaan
-Mari kita lihat contoh praktisnya. Anda ingin menghitung bunga sederhana dari:
+## 💡 Example of Use
+Let's look at a practical example. You want to calculate the simple interest from:
 
-Pokok (p) = Rp 1.000.000
+Principal (p) = $1,000,000
 
-Suku Bunga (r) = 7% per tahun (yaitu, 0.07)
+Interest Rate (r) = 7% per year (i.e., 0.07)
 
-Waktu (t) = 3 tahun
+Time (t) = 3 years
 
-Hasil Perhitungan:
+Calculation Result:
 
-Bunga Sederhana = 1.000.000 * 0.07 * 3 = Rp 210.000
+Simple Interest = 1,000,000 * 0.07 * 3 = Rp 210,000
 
-🤝 Mari Berkontribusi!
-Punya ide untuk membuat kalkulator ini lebih baik? Mungkin menambahkan fitur bunga majemuk atau antarmuka pengguna yang lebih interaktif?
+🤝 Let's Contribute!
+Have any ideas to improve this calculator? Maybe add a compound interest feature or a more interactive user interface?
 
-Jangan ragu untuk melakukan fork pada repositori ini, buat perubahan Anda, dan kirimkan pull request. Semua kontribusi sangat kami hargai!
+Feel free to fork this repository, make your changes, and submit a pull request. All contributions are greatly appreciated!
