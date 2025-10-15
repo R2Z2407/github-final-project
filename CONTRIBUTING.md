@@ -24,17 +24,27 @@ This is a great project for beginner contributors! If you want to fix a bug or a
 <ol>
   <li>Fork this repository to your GitHub account.</li>
   <li>Create a new branch from main for your changes.</li>
-  <i>git checkout -b my-cool-feature</i>
+  <blockquote>
+    <blockquote>
+      <i>git checkout -b my-cool-feature</i>
+    </blockquote>
+  </blockquote>
   <li>Make the necessary changes to the code.</li>
   <li>Don't forget! Add your GitHub username to the list of Additional Authors at the top of the script file.</li>
-  # Author: Upkar Lidder (IBM)<br>
+  <blockquote>
+    # Author: Upkar Lidder (IBM)<br>
   # Additional Authors:<br>
-  # <your GitHub username>
+  # <""your GitHub username"">
+  </blockquote>
   <li>Test your changes to make sure the script still works as expected.</li>
   <li>Commit your changes with a clear message.</li>
-    <i>git commit -m “feat: Add input validation for interest rate”</i>
+    <blockquote>
+      <i>git commit -m “feat: Add input validation for interest rate”</i>
+    </blockquote>
   <li>Push your branch to your fork on GitHub.</li>
-    <i>git push origin my-cool-feature</i>
+    <blockquote>
+      <i>git push origin my-cool-feature</i>
+    </blockquote>
   <li>Open a Pull Request to the original repository.</li>
 </ol>
 # Style Guide
